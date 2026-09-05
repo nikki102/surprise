@@ -150,7 +150,6 @@
 	}
 
 }
-/* PHONE VERSION */
 @media (max-width: 600px) {
 
     body {
@@ -160,8 +159,9 @@
 
     div#main {
         width: 100%;
-        box-sizing: border-box;
+        margin: 0 auto;
         padding: 15px;
+        box-sizing: border-box;
     }
 
     #popImage {
@@ -169,10 +169,6 @@
     }
 
     #newText {
-        margin-top: 0;
-    }
-
-    .momPic {
-        width: 30%;
+        margin-top: -350px;
     }
 }
