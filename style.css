@@ -154,6 +154,9 @@
 /* PHONE VERSION */
 @media (max-width: 600px) {
 
+	#newText {
+    margin-top: 0;
+
     body {
         width: 100%;
         margin: 0;
