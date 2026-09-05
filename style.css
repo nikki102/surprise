@@ -151,28 +151,9 @@
 
 }
 /* PHONE VERSION */
-@media (max-width: 600px) {
 
+   @media (max-device-width: 600px) {
     body {
-        width: 100%;
-        margin: 0;
-    }
-
-    div#main {
-        width: 100%;
-        box-sizing: border-box;
-        padding: 15px;
-    }
-
-    #popImage {
-        width: 90%;
-    }
-
-    #newText {
-        margin-top: 0;
-    }
-
-    .momPic {
-        width: 30%;
+        background: white;
     }
 }
