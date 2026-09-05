@@ -150,7 +150,6 @@
 	}
 
 }
-/* PHONE VERSION */
 @media (max-width: 600px) {
 
     body {
@@ -162,6 +161,12 @@
         width: 100%;
         box-sizing: border-box;
         padding: 15px;
+    }
+
+    #balloonLabel img {
+        width: 80%;
+        height: auto;
+        padding: 10px;
     }
 
     #popImage {
