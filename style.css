@@ -164,10 +164,8 @@
         padding: 15px;
     }
 
-	#popImage {
-    width: 90%;
-}
-
+    #popImage {
+        width: 90%;
     }
 
     #newText {
@@ -177,11 +175,6 @@
     .momPic {
         width: 30%;
     }
-
-#popTrigger:checked ~ #popImage {
-    position: relative;
-    top: 200px !important;
-}
 }
 
 
