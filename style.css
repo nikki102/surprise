@@ -178,6 +178,11 @@
     .momPic {
         width: 30%;
     }
+
+#popTrigger:checked ~ #popImage {
+    position: relative;
+    top: 200px !important;
+}
 }
 
 
