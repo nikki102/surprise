@@ -166,10 +166,7 @@
 
 	#popImage {
     width: 90%;
-}
-
-#popTrigger:checked ~ #popImage {
-    margin-top: 100px;
+    padding-top: 100px;
 }
 
     }
