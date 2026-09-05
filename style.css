@@ -155,7 +155,7 @@
 @media (max-width: 600px) {
 
 	#newText {
-    margin-top: 0;
+    margin-top: -100%;
 	}
 
     body {
