@@ -164,7 +164,15 @@
         padding: 15px;
     }
 
+    #popImage {
+        width: 90%;
+    }
+
     #newText {
         margin-top: 0;
+    }
+
+    .momPic {
+        width: 30%;
     }
 }
