@@ -165,11 +165,15 @@
         width: 90%;
     }
 
+	#balloonLabel img {
+    width: 70%;
+	}
+
     #newText {
         margin-top: 0;
     }
 
     .momPic {
-        width: 30%;
+        width: 3=10%;
     }
 }
