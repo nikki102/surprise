@@ -166,14 +166,14 @@
     }
 
 	#balloonLabel img {
-    width: 70%;
+    width: 90%;
 	}
 
     #newText {
-        margin-top: -100px;
+        margin-top: -200px;
     }
 
     .momPic {
-        width: 30%;
+        width: 70%;
     }
 }
