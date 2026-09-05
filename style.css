@@ -150,10 +150,51 @@
 	}
 
 }
-/* PHONE VERSION! */
+/* PHONE VERSION */
+@media (max-width: 600px) {
 
-   @media (max-device-width: 600px) {
     body {
-        background: white;
+        width: 100%;
+        margin: 0;
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    div#main {
+        width: 100%;
+        min-height: 100vh;
+        margin: 0;
+        padding: 15px;
+        box-sizing: border-box;
+    }
+
+    div.caption {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    #balloonLabel img {
+        width: 80%;
+        height: auto;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    #popImage {
+        width: 90%;
+        height: auto;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    #newText {
+        margin-top: 0;
+    }
+
+    .momPic {
+        width: 30%;
+        height: auto;
+        padding: 5px;
+        box-sizing: border-box;
     }
 }
